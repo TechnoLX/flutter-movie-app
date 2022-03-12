@@ -13,7 +13,7 @@ Part 2:<br/>
 
 # Credit to:
 
-- Movie App UI inspired from Bilgun (YouTube Channel) <br/>
+Movie App UI inspired from Bilgun (YouTube Channel) <br/>
 https://www.youtube.com/c/Bilgune
 
 1. Flutter Movie App - BLoC, RxDart, JSON API (Part 1)<br/>
