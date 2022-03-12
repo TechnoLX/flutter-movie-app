@@ -2,7 +2,7 @@
 Flutter Movie App
 This is a Movie Mobile Application, with integrating api from The Movie Database (TMDB). 
 
-#Movie App Demo YouTube Channel
+# Movie App Demo YouTube Channel
 
 Part 1:<br/>
 -> https://youtu.be/z14PkkyxFGE
@@ -11,7 +11,7 @@ Part 2:<br/>
 -> https://youtu.be/vIEPwgknwwg
 
 
-#Credit to:
+# Credit to:
 
 - Movie App UI inspired from Bilgun (YouTube Channel) <br/>
 https://www.youtube.com/c/Bilgune
@@ -25,7 +25,7 @@ https://www.youtube.com/c/Bilgune
 The Movie Database (TMBD) Official Website: <br/>
 https://www.themoviedb.org/
 
-Follow @
-1. instagram - codelx21 (TechnoLX21)
+# Follow @
+1. Instagram - codelx21 (TechnoLX21)
 2. Twitter - @LxTechno
 3. Youtube Channel - https://www.youtube.com/channel/UCSjmTHiFunCjNwQEKxWEMpA
