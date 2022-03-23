@@ -2,6 +2,10 @@
 Flutter Movie App
 This is a Movie Mobile Application, with integrating api from The Movie Database (TMDB). 
 
+# Google Play Store
+
+https://play.google.com/store/apps/details?id=com.flutter_movie_app
+
 # Movie App Demo YouTube Channel
 
 Part 1:<br/>
